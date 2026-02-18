@@ -1,6 +1,11 @@
-Sales Performance Dashboard | Power BI 
+📊 Dashboard de Performance de Vendas | Power BI
+📌 Visão Geral
 
-Dashboard de Performance de Vendas, desenvolvido em Power BI, com foco na análise estratégica de faturamento, volume de vendas, devoluções e distribuição regional.
+Este projeto apresenta um Dashboard de Performance de Vendas, desenvolvido em Power BI, com foco na análise estratégica de faturamento, volume de vendas, devoluções e distribuição regional.
+
+O dashboard permite a comparação entre os anos 2024 e 2025, possibilitando análises de tendência e avaliação de crescimento.
+
+🎯 Objetivo
 
 O dashboard foi desenvolvido para:
 
@@ -16,35 +21,50 @@ Avaliar distribuição geográfica das vendas
 
 Apoiar decisões orientadas por dados
 
-
-Principais Indicadores (KPIs)
+📈 Principais Indicadores (KPIs)
 
 O painel destaca métricas essenciais para análise executiva:
 
-Faturamento Total
+💰 Faturamento Total
 
-Total de Vendas
+🛒 Total de Vendas
 
-Ticket Médio
+🎯 Ticket Médio
 
-Quantidade de Devoluções
+🔁 Quantidade de Devoluções
 
-Valor de Devoluções
+💵 Valor de Devoluções
 
+📊 Modelo de Dados (Star Schema):
 
-Modelo de Dados (Star Schema):
+Tabelas Fato
 
-Tabelas Fato:
 Vendas 2024
+
 Vendas 2025
-Tabelas Dimensão:
+
+Tabelas Dimensão
+
 Clientes
+
 Lojas
+
 Produtos
+
 Calendário
 
+🛠 Técnicas Aplicadas
 
-Análises Possibilitadas:
+✔ Criação de Tabela Calendário (Time Intelligence)
+✔ Comparação Ano contra Ano (YoY)
+✔ Construção de KPIs Estratégicos
+✔ Otimização do Modelo de Dados
+✔ Análise de Tendência
+✔ Visualização Executiva
+
+💡 Análises Possibilitadas
+
+Este dashboard permite:
 
 Identificação de sazonalidade
 
@@ -58,8 +78,7 @@ Análise geográfica das vendas
 
 Identificação de meses de maior performance
 
-
-Como Utilizar:
+▶ Como Utilizar
 
 Abrir o arquivo .pbix no Power BI Desktop
 
@@ -67,14 +86,15 @@ Interagir com filtros e segmentações
 
 Explorar tendências e comparações
 
+📷 Visualização do Dashboard
+![Dashboard](https://github.com/user-attachments/assets/fc5781e8-59fb-4788-940d-c820fea2cff0)
 
-Autora:
+👩‍💻 Autor(a)
+
 Cintia Sedenho Dias
-
 Logística & Análise de Dados
 
-
-Contato
+📬 Contato
 
 Fique à vontade para se conectar:
 
