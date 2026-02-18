@@ -51,11 +51,17 @@ Calendário
 🛠 Técnicas Aplicadas
 
 ✔ Criação de Tabela Calendário (Time Intelligence)
+
 ✔ Comparação Ano contra Ano (YoY)
+
 ✔ Construção de KPIs Estratégicos
+
 ✔ Otimização do Modelo de Dados
+
 ✔ Análise de Tendência
+
 ✔ Visualização Executiva
+
 
 💡 Análises Possibilitadas
 
