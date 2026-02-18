@@ -1,4 +1,5 @@
 📊 Dashboard de Performance de Vendas | Power BI
+
 📌 Visão Geral
 
 Este projeto apresenta um Dashboard de Performance de Vendas, desenvolvido em Power BI, com foco na análise estratégica de faturamento, volume de vendas, devoluções e distribuição regional.
@@ -37,20 +38,14 @@ O painel destaca métricas essenciais para análise executiva:
 
 📊 Modelo de Dados (Star Schema):
 
-Tabelas Fato
-
+Tabelas Fato:
 Vendas 2024
-
 Vendas 2025
 
-Tabelas Dimensão
-
+Tabelas Dimensão:
 Clientes
-
 Lojas
-
 Produtos
-
 Calendário
 
 🛠 Técnicas Aplicadas
